@@ -1,3 +1,7 @@
+Laravel project created with XAMPP
+
+run php artisan serve to run project, the first page would be "localhost:{which ever port the program runs, for me was 8000}/main
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
